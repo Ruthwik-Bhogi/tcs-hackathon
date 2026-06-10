@@ -1,0 +1,2 @@
+def stream():
+  return null
